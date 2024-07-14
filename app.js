@@ -33,6 +33,12 @@ app.get('/', async (req,res) => {
     // console.log(req.user);
 
     const allBlog = await Blog.find({});
+    if(!allBlog){
+        res.render('home' , {
+            user : req.user,
+            
+        });
+    }
     res.render('home' , {
         user : req.user,
         blogs : allBlog,
