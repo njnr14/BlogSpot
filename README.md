@@ -4,6 +4,17 @@ A Blogging website developed using Node.js and EJS which have feature of signin/
 
 ---
 
+![Screenshot 2024-09-12 154240](https://github.com/user-attachments/assets/7559a2a3-2a0e-460f-8d7a-f5ce07a22e26)
+
+![Screenshot 2024-09-12 154401](https://github.com/user-attachments/assets/b59b5e55-cbc5-401e-a049-85a71fc120bc)
+
+![Screenshot 2024-09-12 154513](https://github.com/user-attachments/assets/12e025c9-3f83-485f-a39d-8df47ad1bd53)
+
+![Screenshot 2024-09-12 151305](https://github.com/user-attachments/assets/fe670d99-dc2a-4c02-9be0-03e062bc83de)
+
+![Screenshot 2024-09-12 151402](https://github.com/user-attachments/assets/9e5d2011-427e-4d85-b6fb-0f3411ed9b28)
+
+
 ### Node
 - #### Node installation on Windows
 
